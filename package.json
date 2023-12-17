@@ -1,0 +1,25 @@
+{
+  "name": "awaitable-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:watch": "tsc --watch",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyymarco/awaitable-gallery.git"
+  },
+  "dependencies": {
+    "@cssfn/core": "^3.2.0",
+    "@cssfn/cssfn-react": "^3.2.0",
+    "@reusable-ui/components": "^6.5.2",
+    "@reusable-ui/core": "^6.5.0",
+    "react": "^18.2.0"
+  }
+}

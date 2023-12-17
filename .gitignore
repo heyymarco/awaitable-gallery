@@ -1,0 +1,7 @@
+node_modules/
+
+
+# package-lock.json # do not ignore this
+
+lerna-debug.log
+npm-debug.log
